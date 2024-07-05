@@ -4,10 +4,6 @@
 ![image](https://github.com/yesshristi/Netflix-clone/assets/136729553/3ea77a08-5197-4180-ba85-ceb7e8ba50f9)
 
 
-
-Uploading Netflix India – Watch TV Shows Online, Watch Movies Online - Google Chrome 2024-06-12 12-43-34.mp4…
-
-
 "Overview"
 I developed a clone of Netflix to sharpen my skills in HTML and CSS, focusing exclusively on the frontend aspect of web development. This project allowed me to recreate the look and feel of Netflix, providing an opportunity to experiment with web design principles and responsive layouts.
 
