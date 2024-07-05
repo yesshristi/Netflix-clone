@@ -3,6 +3,11 @@
 
 ![image](https://github.com/yesshristi/Netflix-clone/assets/136729553/3ea77a08-5197-4180-ba85-ceb7e8ba50f9)
 
+
+
+Uploading Netflix India – Watch TV Shows Online, Watch Movies Online - Google Chrome 2024-06-12 12-43-34.mp4…
+
+
 "Overview"
 I developed a clone of Netflix to sharpen my skills in HTML and CSS, focusing exclusively on the frontend aspect of web development. This project allowed me to recreate the look and feel of Netflix, providing an opportunity to experiment with web design principles and responsive layouts.
 
@@ -28,4 +33,5 @@ I developed a clone of Netflix to sharpen my skills in HTML and CSS, focusing ex
 - Portfolio Showcase: The Netflix clone is a compelling addition to my portfolio, demonstrating my ability to replicate complex web interfaces and design responsive web pages.
 
 "Conclusion"
+
 The Netflix clone project has been an excellent exercise in refining my frontend development skills and understanding responsive design. It showcases my ability to recreate sophisticated web interfaces using HTML and CSS, preparing me for more advanced web development challenges in the future.
