@@ -1,15 +1,13 @@
 
 #Netflix Clone Project
 
-
-                                         ![image](https://github.com/yesshristi/Netflix-clone/assets/136729553/3ea77a08-5197-4180-ba85-ceb7e8ba50f9)
+![image](https://github.com/yesshristi/Netflix-clone/assets/136729553/3ea77a08-5197-4180-ba85-ceb7e8ba50f9)
 
 "Overview"
 I developed a clone of Netflix to sharpen my skills in HTML and CSS, focusing exclusively on the frontend aspect of web development. This project allowed me to recreate the look and feel of Netflix, providing an opportunity to experiment with web design principles and responsive layouts.
 
 
-
-                                            ![image](https://github.com/yesshristi/Netflix-clone/assets/136729553/1512b67a-9b4d-450a-94f7-d924d4dac91d)
+![image](https://github.com/yesshristi/Netflix-clone/assets/136729553/1512b67a-9b4d-450a-94f7-d924d4dac91d)
 
 
                                             
